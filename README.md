@@ -11,7 +11,7 @@ I'm a passionate Software Engineer and Full-Stack Web Developer based in Lahore,
 - **CMS:** WordPress
 
 ## Education
-- Bachelor's in Software Engineering - [Virtual University of Pakistan], [2019]
+- Bachelor's in Software Engineering - Virtual University of Pakistan, 2019
 
 ## Projects
 Here are some of the projects I've worked on:
