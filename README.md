@@ -1,27 +1,44 @@
-# Hello, I'm Hassan Raza 👋
+# Hassan Raza — Senior Full-Stack Developer
 
-## About Me
-I'm a passionate Software Engineer and Full-Stack Web Developer based in Lahore, Pakistan. I love crafting efficient and user-friendly web applications. With expertise in a variety of technologies, I strive to create innovative solutions that solve real-world problems.
+> I build custom dashboards, workflow automation tools, and 
+> eCommerce platforms for SaaS startups and growing businesses.
 
-## Skills
-- **Frontend:** HTML, CSS, JavaScript, React.js, Vue.js
-- **Backend:** PHP, Laravel, Node.js
-- **Databases:** MySQL, MongoDB
-- **Version Control:** GitHub, GitLab
-- **CMS:** WordPress
+🌐 [hassanraza.net](https://hassanraza.net) · 
+💼 [Upwork — Top Rated · 100% JSS](https://www.upwork.com/freelancers/~010bfe8aa1fe0a33ca) · 
+📩 info@hassanraza.net
 
-## Education
-- Bachelor's in Software Engineering - Virtual University of Pakistan, 2019
+---
 
-## Projects
-Here are some of the projects I've worked on:
-- [Mon-Arch.ca](https://mon-arch.ca/): A bespoke WordPress website showcasing home renovation and decoration services with creative expertise.
-- [SkillTest.se](http://skilltest.se/): A Laravel-powered platform designed for recruiters to seamlessly conduct skill assessments for candidates.
-- [Sendies.io](https://sendies.io/): A Laravel-driven platform with Stripe and FedEx integration, empowering users to create and manage campaigns effortlessly. Seamlessly send tablets to participants, managing shipping logistics through FedEx integration.
+## 🛠️ Tech Stack
 
-## Contact Me
-📧 Email: [info@hassanraza.net](mailto:info@hassanraza.net)  
-🌐 LinkedIn: [hassanrazadev](https://www.linkedin.com/in/hassanrazadev/)  
-🖥️ Website: [HassanRaza.Net](https://hassanraza.net/)
+**Backend:** Laravel · Node.js · NestJS · Express · PHP  
+**Frontend:** React · Next.js · TypeScript · Vue · Angular  
+**Databases:** MySQL · MongoDB · PostgreSQL  
+**DevOps:** AWS · Docker · DigitalOcean · Ubuntu VPS  
+**AI Tools:** Claude · Cursor · GitHub Copilot · Codex  
 
-Feel free to explore my repositories to learn more about my work! 😊
+---
+
+## 🚀 Selected Work
+
+| Project | What It Does | Stack |
+|---|---|---|
+| [Nautica360](https://nautica360.net) | Maritime directory for Italian nautical market | Laravel · Next.js · MySQL · AWS |
+| [SkillTest](https://skilltest.se) | Recruitment testing platform | Laravel · MySQL |
+| [Sendies](https://sendies.io) | Campaign & shipping management (Stripe + FedEx) | Laravel · Stripe · FedEx API |
+
+*Most client work is private by NDA — visit [hassanraza.net](https://hassanraza.net) for full portfolio.*
+
+---
+
+## 📊 GitHub Stats
+
+![Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassanrazadev&show_icons=true&theme=dark&hide_border=true)
+
+---
+
+## 🤝 Open To
+
+- Freelance contracts (remote, worldwide)
+- Full-time remote roles
+- Long-term retainer partnerships
